@@ -13,7 +13,7 @@ In this example file I have included example scholarly.html files for two papers
 
 I have also included two notebooks. One of which contains the functions for reading a scholarly.html object and the other shows an example usage. The files are:
 
-* `Example importing scholarly html processing functions.ipynb`
+* `Example importing scholarly.html.ipynb`
 * `scholarly_html_functions.ipynb`
 
 
