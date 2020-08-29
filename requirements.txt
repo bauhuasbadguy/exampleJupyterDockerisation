@@ -8,6 +8,7 @@ scikit-learn==0.22.1
 pandas==0.25.3
 nltk==3.4.5
 dateparser==0.7.2
-pdfminer3
+pdfminer3==2018.12.03.0
 beautifulsoup4==4.9.1
 ipynb==0.5.1
+flashtext==2.7
